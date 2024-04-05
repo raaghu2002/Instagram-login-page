@@ -1,0 +1,61 @@
+form { 
+    border-radius: 5%; 
+    border-style:solid;
+    border-color:white;
+    display:inline-block;
+    background-color:white;
+    padding:25px; 
+    width:30%;
+    }
+    
+a:hover{
+        color: aqua;
+    }
+a:visited{
+        color:black;
+    }
+
+.login-button {
+            background-color: blue;
+            color: white;
+            padding: 1px 100px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+.login-button:hover {
+            background-color:red; 
+        }
+body{
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+
+        }
+#a {
+      color:chartreuse;
+    }
+body{
+        margin-bottom: 10%;
+    }
+    a{
+        text-decoration: none;
+    }
+    li{
+        list-style-type: none;
+        display: inline-block;
+        align-self: center;
+        padding: 1%;
+
+    }
+    ul{
+        background-color:powderblue;
+        position:;
+        padding:1.5%;
+        
+    }
+    input{
+        color: royalblue;
+    }
+    */background-image:url(insta.jpg.webp);*/
